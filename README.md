@@ -7,7 +7,7 @@
 [![AAAI 2026](https://img.shields.io/badge/AAAI-2026-blue.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/37871)
 [![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)]()
+[![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://ooonesevennn.github.io/DiffNR/)
 
 </div>
 
