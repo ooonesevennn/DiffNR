@@ -156,7 +156,7 @@ DiffNR/
 ---
 
 ## ✅ TODO
-
+- [x] Release DiffNR training code and SliceFixer model weights
 - [ ] Release data preprocessing pipeline
 - [ ] Release SliceFixer training code
 
