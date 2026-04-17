@@ -1,0 +1,22 @@
+# Python cache/build
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE/system files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log
+events.out.tfevents.*

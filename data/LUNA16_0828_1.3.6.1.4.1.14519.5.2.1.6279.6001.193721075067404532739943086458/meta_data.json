@@ -1,0 +1,402 @@
+{
+    "scanner": {
+        "DSD": 6.0,
+        "DSO": 4.0,
+        "nDetector": [
+            256,
+            256
+        ],
+        "sDetector": [
+            3.0,
+            3.0
+        ],
+        "nVoxel": [
+            256,
+            256,
+            256
+        ],
+        "sVoxel": [
+            2.0,
+            2.0,
+            2.0
+        ],
+        "offOrigin": [
+            0,
+            0,
+            0
+        ],
+        "offDetector": [
+            0,
+            0
+        ],
+        "accuracy": 0.5,
+        "mode": "cone",
+        "filter": null,
+        "total_angle": 360,
+        "start_angle": 0,
+        "noise": true,
+        "poisson_noise": 10000,
+        "gaussian_noise": [
+            0,
+            10
+        ],
+        "dVoxel": [
+            0.0078125,
+            0.0078125,
+            0.0078125
+        ],
+        "dDetector": [
+            0.01171875,
+            0.01171875
+        ]
+    },
+    "vol": "volume_gt.npy",
+    "proj_train": [
+        {
+            "file_path": "proj_train/0000.npy",
+            "angle": 0.0
+        },
+        {
+            "file_path": "proj_train/0001.npy",
+            "angle": 0.17453292519943295
+        },
+        {
+            "file_path": "proj_train/0002.npy",
+            "angle": 0.3490658503988659
+        },
+        {
+            "file_path": "proj_train/0003.npy",
+            "angle": 0.5235987755982988
+        },
+        {
+            "file_path": "proj_train/0004.npy",
+            "angle": 0.6981317007977318
+        },
+        {
+            "file_path": "proj_train/0005.npy",
+            "angle": 0.8726646259971648
+        },
+        {
+            "file_path": "proj_train/0006.npy",
+            "angle": 1.0471975511965976
+        },
+        {
+            "file_path": "proj_train/0007.npy",
+            "angle": 1.2217304763960306
+        },
+        {
+            "file_path": "proj_train/0008.npy",
+            "angle": 1.3962634015954636
+        },
+        {
+            "file_path": "proj_train/0009.npy",
+            "angle": 1.5707963267948966
+        },
+        {
+            "file_path": "proj_train/0010.npy",
+            "angle": 1.7453292519943295
+        },
+        {
+            "file_path": "proj_train/0011.npy",
+            "angle": 1.9198621771937625
+        },
+        {
+            "file_path": "proj_train/0012.npy",
+            "angle": 2.0943951023931953
+        },
+        {
+            "file_path": "proj_train/0013.npy",
+            "angle": 2.2689280275926285
+        },
+        {
+            "file_path": "proj_train/0014.npy",
+            "angle": 2.443460952792061
+        },
+        {
+            "file_path": "proj_train/0015.npy",
+            "angle": 2.6179938779914944
+        },
+        {
+            "file_path": "proj_train/0016.npy",
+            "angle": 2.792526803190927
+        },
+        {
+            "file_path": "proj_train/0017.npy",
+            "angle": 2.9670597283903604
+        },
+        {
+            "file_path": "proj_train/0018.npy",
+            "angle": 3.141592653589793
+        },
+        {
+            "file_path": "proj_train/0019.npy",
+            "angle": 3.3161255787892263
+        },
+        {
+            "file_path": "proj_train/0020.npy",
+            "angle": 3.490658503988659
+        },
+        {
+            "file_path": "proj_train/0021.npy",
+            "angle": 3.6651914291880923
+        },
+        {
+            "file_path": "proj_train/0022.npy",
+            "angle": 3.839724354387525
+        },
+        {
+            "file_path": "proj_train/0023.npy",
+            "angle": 4.014257279586958
+        },
+        {
+            "file_path": "proj_train/0024.npy",
+            "angle": 4.1887902047863905
+        },
+        {
+            "file_path": "proj_train/0025.npy",
+            "angle": 4.363323129985824
+        },
+        {
+            "file_path": "proj_train/0026.npy",
+            "angle": 4.537856055185257
+        },
+        {
+            "file_path": "proj_train/0027.npy",
+            "angle": 4.71238898038469
+        },
+        {
+            "file_path": "proj_train/0028.npy",
+            "angle": 4.886921905584122
+        },
+        {
+            "file_path": "proj_train/0029.npy",
+            "angle": 5.061454830783556
+        },
+        {
+            "file_path": "proj_train/0030.npy",
+            "angle": 5.235987755982989
+        },
+        {
+            "file_path": "proj_train/0031.npy",
+            "angle": 5.410520681182422
+        },
+        {
+            "file_path": "proj_train/0032.npy",
+            "angle": 5.585053606381854
+        },
+        {
+            "file_path": "proj_train/0033.npy",
+            "angle": 5.759586531581287
+        },
+        {
+            "file_path": "proj_train/0034.npy",
+            "angle": 5.934119456780721
+        },
+        {
+            "file_path": "proj_train/0035.npy",
+            "angle": 6.1086523819801535
+        }
+    ],
+    "proj_test": [
+        {
+            "file_path": "proj_test/0000.npy",
+            "angle": 0.008481766287225271
+        },
+        {
+            "file_path": "proj_test/0001.npy",
+            "angle": 0.2849902730973505
+        },
+        {
+            "file_path": "proj_test/0002.npy",
+            "angle": 0.34695509404861935
+        },
+        {
+            "file_path": "proj_test/0003.npy",
+            "angle": 0.4036808339542815
+        },
+        {
+            "file_path": "proj_test/0004.npy",
+            "angle": 0.5386435919266193
+        },
+        {
+            "file_path": "proj_test/0005.npy",
+            "angle": 0.664578564253412
+        },
+        {
+            "file_path": "proj_test/0006.npy",
+            "angle": 0.7222634159318622
+        },
+        {
+            "file_path": "proj_test/0007.npy",
+            "angle": 0.80555385432069
+        },
+        {
+            "file_path": "proj_test/0008.npy",
+            "angle": 1.2509378023168733
+        },
+        {
+            "file_path": "proj_test/0009.npy",
+            "angle": 1.2821720704816777
+        },
+        {
+            "file_path": "proj_test/0010.npy",
+            "angle": 1.3582719940117902
+        },
+        {
+            "file_path": "proj_test/0011.npy",
+            "angle": 1.5255315282484054
+        },
+        {
+            "file_path": "proj_test/0012.npy",
+            "angle": 1.6056373842843001
+        },
+        {
+            "file_path": "proj_test/0013.npy",
+            "angle": 1.6700324104088113
+        },
+        {
+            "file_path": "proj_test/0014.npy",
+            "angle": 2.0341468970402348
+        },
+        {
+            "file_path": "proj_test/0015.npy",
+            "angle": 2.1483930747519073
+        },
+        {
+            "file_path": "proj_test/0016.npy",
+            "angle": 2.2973619877440705
+        },
+        {
+            "file_path": "proj_test/0017.npy",
+            "angle": 2.46188345587763
+        },
+        {
+            "file_path": "proj_test/0018.npy",
+            "angle": 2.772025065269321
+        },
+        {
+            "file_path": "proj_test/0019.npy",
+            "angle": 2.7858071407622527
+        },
+        {
+            "file_path": "proj_test/0020.npy",
+            "angle": 2.8682743672167748
+        },
+        {
+            "file_path": "proj_test/0021.npy",
+            "angle": 2.873828767625127
+        },
+        {
+            "file_path": "proj_test/0022.npy",
+            "angle": 3.1854728317250944
+        },
+        {
+            "file_path": "proj_test/0023.npy",
+            "angle": 3.2659950372571673
+        },
+        {
+            "file_path": "proj_test/0024.npy",
+            "angle": 3.269505943720609
+        },
+        {
+            "file_path": "proj_test/0025.npy",
+            "angle": 3.480001588585018
+        },
+        {
+            "file_path": "proj_test/0026.npy",
+            "angle": 3.6639320695633724
+        },
+        {
+            "file_path": "proj_test/0027.npy",
+            "angle": 3.9074786871123424
+        },
+        {
+            "file_path": "proj_test/0028.npy",
+            "angle": 3.997202924974471
+        },
+        {
+            "file_path": "proj_test/0029.npy",
+            "angle": 4.302335754799468
+        },
+        {
+            "file_path": "proj_test/0030.npy",
+            "angle": 4.308993303307623
+        },
+        {
+            "file_path": "proj_test/0031.npy",
+            "angle": 4.452102121007864
+        },
+        {
+            "file_path": "proj_test/0032.npy",
+            "angle": 4.57063088663656
+        },
+        {
+            "file_path": "proj_test/0033.npy",
+            "angle": 4.608089615041064
+        },
+        {
+            "file_path": "proj_test/0034.npy",
+            "angle": 4.71555544121059
+        },
+        {
+            "file_path": "proj_test/0035.npy",
+            "angle": 5.004207004066917
+        },
+        {
+            "file_path": "proj_test/0036.npy",
+            "angle": 5.026866457442694
+        },
+        {
+            "file_path": "proj_test/0037.npy",
+            "angle": 5.036845099208815
+        },
+        {
+            "file_path": "proj_test/0038.npy",
+            "angle": 5.101959533123119
+        },
+        {
+            "file_path": "proj_test/0039.npy",
+            "angle": 5.253561216718728
+        },
+        {
+            "file_path": "proj_test/0040.npy",
+            "angle": 5.47235518991419
+        },
+        {
+            "file_path": "proj_test/0041.npy",
+            "angle": 5.56396217305116
+        },
+        {
+            "file_path": "proj_test/0042.npy",
+            "angle": 5.607601872708244
+        },
+        {
+            "file_path": "proj_test/0043.npy",
+            "angle": 5.663675916418555
+        },
+        {
+            "file_path": "proj_test/0044.npy",
+            "angle": 5.6893638705793235
+        },
+        {
+            "file_path": "proj_test/0045.npy",
+            "angle": 5.749213434617913
+        },
+        {
+            "file_path": "proj_test/0046.npy",
+            "angle": 5.947391706655298
+        },
+        {
+            "file_path": "proj_test/0047.npy",
+            "angle": 6.169590284454279
+        },
+        {
+            "file_path": "proj_test/0048.npy",
+            "angle": 6.228964640183046
+        },
+        {
+            "file_path": "proj_test/0049.npy",
+            "angle": 6.257308054956655
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+# Baseline config for LUNA16-style training.
+iterations: 12000
+
+# Projection-space losses
+lambda_dssim: 0.25
+
+# Volume regularization
+lambda_tv: 0.05
+tv_vol_size: 32
+
+# Diffusion enhancement losses
+lambda_diffusion_ssim: 1.0
+lambda_diffusion_l1: 0.0
+diffusion_tv_size: 0
+
+# Densification
+densification_interval: 100
+densify_from_iter: 500
+densify_until_iter: 0
+densify_grad_threshold: 0.00005
