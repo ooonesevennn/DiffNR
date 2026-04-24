@@ -5,7 +5,7 @@
 ### Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction
 
 [![AAAI 2026](https://img.shields.io/badge/AAAI-2026-blue.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/37871)
-[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2604.21518-b31b1b.svg)](https://arxiv.org/abs/2604.21518)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://ooonesevennn.github.io/DiffNR/)
 
